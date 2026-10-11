@@ -1,0 +1,9 @@
+qiskit
+qiskit-nature
+qiskit-algorithms
+pyscf
+qiskit-aer
+numpy
+pandas
+matplotlib
+networkx
